@@ -1,1 +1,1 @@
-# vntech-azure-deployment
+# azure-deployment
